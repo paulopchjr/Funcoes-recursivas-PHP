@@ -61,6 +61,13 @@ $veiculos = array(
 	echo exibe($veiculos);
 
 
+	echo "<hr>";
+
+	// IMPRIMI O ARRAY VEICULOS
+	print_r($veiculos);
+
+
+
 
 
 
